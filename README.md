@@ -18,4 +18,5 @@ Aby wygenerować plik PDF, użyj narzędzi takich jak Sphinx oraz Sphinx LaTeX B
 Plik PDF zostanie wygenerowany w katalogu `_build/latex`.
 
 #Autor
+
 Szymon Blatkowski
